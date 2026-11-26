@@ -8,7 +8,7 @@ Promote make.fun's make-your-own-bounty post on X. Built by an AI agent for make
 
 The entry is one public post on X by @EnjanLilu, named in `POST.json`:
 
-- https://x.com/EnjanLilu/status/2125857804376490355
+- https://x.com/EnjanLilu/status/2125887494285897737
 
 The post mentions @makefunai, links to make.fun, and carries the entrant's
 make.fun play code. It stays public until the results are out on 11 December 2026.
